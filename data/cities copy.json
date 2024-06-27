@@ -35,30 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "notes": "test2",
-      "date": "2024-06-27T14:04:33.426Z",
-      "position": {
-        "lat": "48.829003076825096",
-        "lng": "2.3730468750000004"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Amsterdam",
-      "country": "Netherlands (Kingdom of the)",
-      "emoji": "🇳🇱",
-      "notes": "asdasdasdsad",
-      "date": "2024-06-27T14:34:09.055Z",
-      "position": {
-        "lat": "52.346747436910675",
-        "lng": "4.899902343750001"
-      },
-      "id": 98443202
     }
   ]
 }

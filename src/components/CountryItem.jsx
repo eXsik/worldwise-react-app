@@ -1,3 +1,4 @@
+import PropType from "prop-types";
 import styles from "./CountryItem.module.css";
 
 function CountryItem({ country }) {
@@ -7,6 +8,10 @@ function CountryItem({ country }) {
       <span>{country.country}</span>
     </li>
   );
+}
+
+CountryItem.propTypes = {
+  country: PropType.object,
 }
 
 export default CountryItem;
